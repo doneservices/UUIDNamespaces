@@ -12,6 +12,12 @@ dependencies: [
 ]
 ```
 
+or using Cocoapods:
+
+```ruby
+pod 'UUIDNamespaces', '~> 1.0'
+```
+
 ## API
 
 ### `UUID(name: String, namespace: UUID) -> UUID`
